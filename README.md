@@ -1,0 +1,1 @@
+# Remote-Monitoring-System-for-Real-Time-Industrial-Parameters
